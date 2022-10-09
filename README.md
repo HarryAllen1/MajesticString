@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MajesticString)* <a href="https://discord.com/users/696554549418262548>![image](https://user-images.githubusercontent.com/66224939/194732025-f93521b8-9af7-45c3-ae6a-04b3900d7fb7.png)</a>
+![](https://komarev.com/ghpvc/?username=MajesticString)* <a href="https://discord.com/users/696554549418262548">![image](https://user-images.githubusercontent.com/66224939/194732025-f93521b8-9af7-45c3-ae6a-04b3900d7fb7.png)</a>
 
 ###### (since 8/10/2022)
 ![Harrys's GitHub stats](https://github-readme-stats.vercel.app/api?username=MajesticString&show_icons=true&theme=onedark)
