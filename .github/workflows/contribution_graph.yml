@@ -17,7 +17,7 @@ jobs:
           repository: ${{ github.event.inputs.repository }}
           ref: ${{ github.event.inputs.ref }}
       - name: Gen contributions graph snake in format GIF
-        uses: Platane/snk@v1.1.0
+        uses: Platane/snk@v2.2.1
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: assets/github-contributions.gif
